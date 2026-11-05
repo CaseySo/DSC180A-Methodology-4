@@ -8,7 +8,7 @@
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic that we covered was learning more about CPUs, GPUs, and machines because I had not really delve into it too much
+The most interesting topic that we covered was learning more about CPUs, GPUs, and machines because I had not really delved into it too much
 so learning more about it helped me to understand more about the limitations of hardware and how things are changing as AI and other applications
 continue to evolve. 
 
@@ -16,7 +16,7 @@ continue to evolve.
 
 I would like to see how our benchmarking can be helpful to different industries and how determinations can be made for specific needs.
 For example, a school may need something that can be able to support a lot of users, whereas a smaller lab might need something more 
-secure or is capable of running larger models for resarch.
+secure or capable of running larger models for research.
 
 **3. What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 
@@ -27,6 +27,6 @@ running the tests. This will make it more accurate to the benchmarks instead of 
 
 **4. What other techniques would you be interested in using in your project?**
 
-I would like to learn more about how to use LLMs to help create an easier process for testing. Currently everything is done 
-manually with humans setting up pods and invidually running tests, which takes a long time and if it were to crash everything 
+I would like to learn more about how to use LLMs to help create an easier process for testing. Currently, everything is done 
+manually, with humans setting up pods and individually running tests, which takes a long time, and if it were to crash, everything 
 needs to be redone.
